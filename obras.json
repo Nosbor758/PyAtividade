@@ -1,0 +1,21 @@
+[
+    {
+        "titulo": "Teste",
+        "data_criacao": "1999 12 03",
+        "tema": "Teste",
+        "estilo_artistico": "testando",
+        "descricao": "teste",
+        "tecnica": "",
+        "autor": {
+            "nome": "Robson",
+            "data_nascimento": "2000 12 23",
+            "local_nascimento": "Rio de Janeiro",
+            "biografia": "",
+            "estilos": [
+                ""
+            ]
+        },
+        "localizacao": "tESTE",
+        "documentos_relacionados": []
+    }
+]
